@@ -19,3 +19,6 @@ Here are some ideas to get you started:
         <img src="https://api.vaunt.dev/v1/github/entities/simonmazzaroth/contributions?format=svg" width="350" title="Includes public contributions"/>
     </a>
 </p>
+<p>
+  <img src="https://api.vaunt.dev/v1/github/entities/simonmazzaroth/achievements?format=svg&limit=3" width="350" />
+</p>
