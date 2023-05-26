@@ -22,4 +22,7 @@ Here are some ideas to get you started:
 <p>
   <img src="https://api.vaunt.dev/v1/github/entities/simonmazzaroth/achievements?format=svg&limit=3" width="350" />
 </p>
-https://api.vaunt.dev/v1/github/entities/akshitagupta15june/contributors?format=svg&limit=15
+</p>
+<p>
+  <img src="https://api.vaunt.dev/v1/github/entities/simonmazzaroth/contributors?format=svg&limit=15" width="350" />
+</p>
