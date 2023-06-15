@@ -23,4 +23,4 @@ Here are some ideas to get you started:
   <img src="https://api.vaunt.dev/v1/github/entities/simonmazzaroth/achievements?format=svg&limit=3" width="350" />
 </p>
 
-[![License](https://img.shields.io/github/license/jeff1010322/simonmazzaroth)](https://github.com/jeff1010322/simonmazzaroth/blob/main/LICENSE)
+[![Badge Label](https://github.com/jeff1010322?tab=achievements&achievement=pair-extraordinaire)](https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png)
