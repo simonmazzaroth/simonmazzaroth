@@ -11,7 +11,7 @@ achievements:
             condition: starred = true
   - achievement:
       name: Every Bit Counts
-      icon: https://raw.githubusercontent.com/vauntdev/example/main/.vaunt/every_bit_counts.png
+      icon: https://raw.githubusercontent.com/simonmazzaroth/simonmazzaroth/main/.vaunt/3astro.png
       description: No commit is too small!
       triggers:
         - trigger:
