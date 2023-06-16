@@ -23,4 +23,3 @@ Here are some ideas to get you started:
   <img src="https://api.vaunt.dev/v1/github/entities/simonmazzaroth/achievements?format=svg&limit=3" width="350" />
 </p>
 
-https://raw.githubusercontent.com/simonmazzaroth/simonmazzaroth/main/.vaunt/_4f97b989-e3de-438c-977d-0a45982e9aa8.jpeg
