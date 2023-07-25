@@ -25,16 +25,16 @@ Here are some ideas to get you started:
 
 <p>
 https://api.vaunt.dev/v1/github/entities/akshitagupta15june/repositories/Face-X/contributors?format=svg&limit=100
-<p>
+</p>
 
 <p>
 https://api.vaunt.dev/v1/github/entities/akshitagupta15june/repositories/Face-X/contributors?format=svg&limit=80
-<p>
+</p>
 
 <p>
 https://api.vaunt.dev/v1/github/entities/akshitagupta15june/repositories/Face-X/contributors?format=svg&limit=50
-<p>
+</p>
 
 <p>
 https://api.vaunt.dev/v1/github/entities/akshitagupta15june/repositories/Face-X/contributors?format=svg&limit=30
-<p>
+</p>
