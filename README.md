@@ -22,8 +22,19 @@ Here are some ideas to get you started:
 <p>
   <img src="https://api.vaunt.dev/v1/github/entities/simonmazzaroth/achievements?format=svg&limit=3" width="350" />
 </p>
-https://api.vaunt.dev/v1/github/entities/akshitagupta15june/repositories/Face-X/contributors?format=svg&limit=100
-https://api.vaunt.dev/v1/github/entities/akshitagupta15june/repositories/Face-X/contributors?format=svg&limit=75
-https://api.vaunt.dev/v1/github/entities/akshitagupta15june/repositories/Face-X/contributors?format=svg&limit=50
-https://api.vaunt.dev/v1/github/entities/akshitagupta15june/repositories/Face-X/contributors?format=svg&limit=30
 
+<p>
+https://api.vaunt.dev/v1/github/entities/akshitagupta15june/repositories/Face-X/contributors?format=svg&limit=100
+<p>
+
+<p>
+https://api.vaunt.dev/v1/github/entities/akshitagupta15june/repositories/Face-X/contributors?format=svg&limit=80
+<p>
+
+<p>
+https://api.vaunt.dev/v1/github/entities/akshitagupta15june/repositories/Face-X/contributors?format=svg&limit=50
+<p>
+
+<p>
+https://api.vaunt.dev/v1/github/entities/akshitagupta15june/repositories/Face-X/contributors?format=svg&limit=30
+<p>
