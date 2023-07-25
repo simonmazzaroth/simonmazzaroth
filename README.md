@@ -24,17 +24,17 @@ Here are some ideas to get you started:
 </p>
 
 <p>
-https://api.vaunt.dev/v1/github/entities/akshitagupta15june/repositories/Face-X/contributors?format=svg&limit=100
+  <img src="https://api.vaunt.dev/v1/github/entities/akshitagupta15june/repositories/Face-X/contributors?format=svg&limit=100" width="600" />
 </p>
 
 <p>
-https://api.vaunt.dev/v1/github/entities/akshitagupta15june/repositories/Face-X/contributors?format=svg&limit=80
+  <img src="https://api.vaunt.dev/v1/github/entities/akshitagupta15june/repositories/Face-X/contributors?format=svg&limit=80" width="600" />
 </p>
 
 <p>
-https://api.vaunt.dev/v1/github/entities/akshitagupta15june/repositories/Face-X/contributors?format=svg&limit=50
+  <img src="https://api.vaunt.dev/v1/github/entities/akshitagupta15june/repositories/Face-X/contributors?format=svg&limit=50" width="600" />
 </p>
 
 <p>
-https://api.vaunt.dev/v1/github/entities/akshitagupta15june/repositories/Face-X/contributors?format=svg&limit=30
+  <img src="https://api.vaunt.dev/v1/github/entities/akshitagupta15june/repositories/Face-X/contributors?format=svg&limit=30" width="600" />
 </p>
