@@ -23,3 +23,4 @@ Here are some ideas to get you started:
   <img src="https://api.vaunt.dev/v1/github/entities/simonmazzaroth/achievements?format=svg&limit=3" width="350" />
 </p>
 
+[![Vaunt Community](https://api.vaunt.dev/v1/github/entities/keploy/repositories/keploy/badges/community)](https://community.vaunt.dev/board/keploy/repository/keploy)
