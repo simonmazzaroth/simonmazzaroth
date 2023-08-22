@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Vaunt Community](https://api.vaunt.dev/v1/github/entities/simonmazzaroth/badges/community)](https://community.vaunt.dev/board/simonmazzaroth) [![Vaunt Community](https://api.vaunt.dev/v1/github/entities/illacloud/repositories/illa-builder/badges/community)](https://community.vaunt.dev/board/illacloud/repository/illa-builder)
+[![Vaunt Community](https://api.vaunt.dev/v1/github/entities/simonmazzaroth/badges/community)](https://community.vaunt.dev/board/simonmazzaroth)
 
 <!--
 **simonmazzaroth/simonmazzaroth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
