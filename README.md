@@ -21,5 +21,5 @@ Here are some ideas to get you started:
     </a>
 </p>
 <p>
-  <img src="https://api.vaunt.dev/v1/github/entities/simonmazzaroth/achievements?format=svg&limit=6" width="350" />
+  <img src="https://api.vaunt.dev/v1/github/entities/simonmazzaroth/achievements?format=svg&limit=9" width="350" />
 </p>
