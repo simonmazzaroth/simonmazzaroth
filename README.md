@@ -30,3 +30,6 @@ Here are some ideas to get you started:
 <img src="https://api.vaunt.dev/v1/github/entities/Sonichigo/contributions?format=svg" width="350" />
 </a>
 </p>
+<p>
+  <img decoding="async" loading="lazy" src="https://api.vaunt.dev/v1/github/entities/sonichigo/achievements?format=svg&limit=3" width="350" />
+</p>
