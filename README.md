@@ -1,25 +1,21 @@
-### Hi there 👋
+# Hey I'm Simon Cheng 👋
+
 [![Vaunt Community](https://api.vaunt.dev/v1/github/entities/simonmazzaroth/badges/community)](https://community.vaunt.dev/board/simonmazzaroth)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/simoncheng-kc)](https://linkedin.com/in/simoncheng-kc)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:scheng@vaunt.dev)](mailto:scheng@vaunt.dev)
 
-<!--
-**simonmazzaroth/simonmazzaroth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Welcome to my profile! I'm a solo DevRel at [Vaunt](https://vaunt.dev/), where we help developers connect, collaborate, and share experiences with each other and help organizations recognize developer contributions. Thanks for visiting and I'd love to connect!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<p>
-    <a href="https://vaunt.dev">
+# GitHub Stat
+<p    <a href="https://vaunt.dev">
         <img src="https://api.vaunt.dev/v1/github/entities/simonmazzaroth/contributions?format=svg" width="350" title="Includes public contributions"/>
     </a>
 </p>
+
+# GitHub Achievements
 <p>
-  <img src="https://api.vaunt.dev/v1/github/entities/simonmazzaroth/achievements?format=svg&limit=9" width="350" />
+  <img src="https://api.vaunt.dev/v1/github/entities/simonmazzaroth/achievements?format=svg&limit=6" width="350" />
 </p>
+
+
