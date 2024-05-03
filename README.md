@@ -15,7 +15,7 @@ Welcome to my profile! I'm a solo DevRel at [Vaunt](https://vaunt.dev/), where w
 
 ## 🥇 Achievements
 <p>
-  <img src="https://api.vaunt.dev/v1/github/entities/simonmazzaroth/achievements?format=svg&limit=12" width="300" />
+  <img src="https://api.vaunt.dev/v1/github/entities/simonmazzaroth/achievements?format=svg&limit=12&raw=ture" width="300" />
 </p>
 
 
