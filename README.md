@@ -9,14 +9,14 @@ Welcome to my profile! I'm a solo DevRel at [Vaunt](https://vaunt.dev/), where w
 
 ## 📊 GitHub Stat
 <p    
-  <a href="[https://community.vaunt.dev/board/simonmazzaroth]">
+  <a href="https://community.vaunt.dev/board/simonmazzaroth">
         <img src="https://api.vaunt.dev/v1/github/entities/simonmazzaroth/contributions?format=svg" width="300" title="Includes public contributions"/>
     </a>
 </p>
 
 ## 🥇 Achievements
 <p>
-  <a href="[https://community.vaunt.dev/board/simonmazzaroth]">
+  <a href="https://community.vaunt.dev/board/simonmazzaroth">
   <img src="https://api.vaunt.dev/v1/github/entities/simonmazzaroth/achievements?format=svg&limit=12&raw=true" width="300" />
 </p>
 
