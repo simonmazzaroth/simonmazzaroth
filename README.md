@@ -8,13 +8,15 @@
 Welcome to my profile! I'm a solo DevRel at [Vaunt](https://vaunt.dev/), where we help developers connect, collaborate, and share experiences with each other and help organizations recognize developer contributions. Thanks for visiting and I'd love to [connect](https://linkedin.com/in/simoncheng-kc)!
 
 ## 📊 GitHub Stat
-<p    <a href="https://vaunt.dev">
+<p    
+  <a href="[https://community.vaunt.dev/board/simonmazzaroth]">
         <img src="https://api.vaunt.dev/v1/github/entities/simonmazzaroth/contributions?format=svg" width="300" title="Includes public contributions"/>
     </a>
 </p>
 
 ## 🥇 Achievements
 <p>
+  <a href="[https://community.vaunt.dev/board/simonmazzaroth]">
   <img src="https://api.vaunt.dev/v1/github/entities/simonmazzaroth/achievements?format=svg&limit=12&raw=true" width="300" />
 </p>
 
