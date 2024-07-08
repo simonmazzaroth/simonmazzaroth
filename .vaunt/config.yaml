@@ -2,7 +2,7 @@ version: 0.0.1
 achievements:
   - achievement:
       name: Shooting Star
-      icon: https://raw.githubusercontent.com/simonmazzaroth/simonmazzaroth/main/.vaunt/_4f97b989-e3de-438c-977d-0a45982e9aa8.jpeg
+      icon: https://raw.githubusercontent.com/mchang2468/MEGAHackathon2024Badges/main/AI_Award.png
       description: Awarded for staring our repository, make a wish!
       triggers:
         - trigger:
